@@ -2,9 +2,9 @@
     {
         "title": "General sponsor",
         "logos": [{
-            "name": "Google",
-            "url": "https://www.google.com.ua/intl/en/about/",
-            "logoUrl": "../images/partners/google.svg"
+            "name": "Google Developers",
+            "url": "http://developers.google.com/",
+            "logoUrl": "../images/partners/google.png"
         }]
     }, {
         "title": "Platinum sponsor",
