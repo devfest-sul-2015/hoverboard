@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "name": "Neto Marin",
+    "title": "Developer Advocate for Android, Cloud and Social.",
+    "company": "Google",
+    "country": "Brasil",
+    "photoUrl": "../../images/people/neto_marin.jpg",
+    "bio": "EM BREVE",
+    "tags": ["Android"],
+    "badges": [{
+        "name": "Developer Evangelist",
+        "description": "Developer Evangelist",
+        "link": "https://twitter.com/netomarin"
+    }, {
+        "name": "Google Brasil",
+        "description": "Google Developers",
+        "link": "https://twitter.com/googlebrasil"
+    }],
+    "socials": [{
+        "name": "Twitter",
+        "link": "https://twitter.com/netomarin"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/netomarin"
+    }]
+}
+]

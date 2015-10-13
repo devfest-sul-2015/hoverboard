@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Patrocinador Platinum",
+        "logos": [{
+            "name": "Google Developers",
+            "url": "http://developers.google.com/",
+            "logoUrl": "../images/partners/google.svg"
+        }]
+    }, {
+        "title": "Patrocinador Silver",
+        "logos": [{
+            "name": "Intel",
+            "url": "https://software.intel.com/pt-br/",
+            "logoUrl": "../images/partners/intel.svg"
+        }]
+    }
+]
