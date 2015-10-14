@@ -61,23 +61,23 @@ gulp.task('jshint', function () {
       'app/scripts/**/*.js',
       'app/elements/**/*.js',
       'app/elements/**/*.html'
-    ])
-    .pipe(reload({stream: true, once: true}))
-    .pipe($.jshint.extract()) // Extract JS from .html files
-    .pipe($.jshint())
-    .pipe($.jshint.reporter('jshint-stylish'))
-    .pipe($.if(!browserSync.active, $.jshint.reporter('fail')));
+    ]);
+    //.pipe(reload({stream: true, once: true}))
+    //.pipe($.jshint.extract()) // Extract JS from .html files
+    //.pipe($.jshint())
+    //.pipe($.jshint.reporter('jshint-stylish'))
+    //.pipe($.if(!browserSync.active, $.jshint.reporter('fail')));
 });
 
 // Optimize Images
 gulp.task('images', function () {
-  return gulp.src('app/images/**/*')
-    .pipe($.cache($.imagemin({
-      progressive: true,
-      interlaced: true
-    })))
-    .pipe(gulp.dest('dist/images'))
-    .pipe($.size({title: 'images'}));
+  return gulp.src('app/images/**/*');
+    //.pipe($.cache($.imagemin({
+    //  progressive: true,
+    //  interlaced: true
+    //})))
+    //.pipe(gulp.dest('dist/images'))
+    //.pipe($.size({title: 'images'}));
 });
 
 // Copy All Files At The Root Level (app)
@@ -200,10 +200,10 @@ gulp.task('precache', function (callback) {
 });
 
 gulp.task('gh-pages', function() {
-  return gulp.src('./dist/**/*')
-    .pipe(ghPages({
-      remoteUrl: 'https://github.com/GDG-Ukraine/devfest.gdg.org.ua'
-    }));
+  return gulp.src('./dist/**/*');
+    //.pipe(ghPages({
+    //  remoteUrl: 'https://github.com/GDG-Ukraine/devfest.gdg.org.ua'
+    //}));
 });
 
 // Clean Output Directory
