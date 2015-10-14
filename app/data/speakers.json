@@ -1,27 +1,68 @@
-[{
+[
+  {
     "id": 1,
+    "featured": true,
     "name": "Neto Marin",
-    "title": "Developer Advocate for Android, Cloud and Social.",
+    "title": "Developer Advocate",
     "company": "Google",
     "country": "Brasil",
     "photoUrl": "../../images/people/neto_marin.jpg",
     "bio": "EM BREVE",
-    "tags": ["Android"],
-    "badges": [{
-        "name": "Developer Evangelist",
-        "description": "Developer Evangelist",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+      {
+        "name": "Developer Advocate",
+        "description": "Developer Advocate",
         "link": "https://twitter.com/netomarin"
-    }, {
+      },
+      {
         "name": "Google Brasil",
         "description": "Google Developers",
         "link": "https://twitter.com/googlebrasil"
-    }],
-    "socials": [{
+      }
+    ],
+    "socials": [
+      {
         "name": "Twitter",
         "link": "https://twitter.com/netomarin"
-    }, {
+      },
+      {
         "name": "GitHub",
         "link": "https://github.com/netomarin"
-    }]
-}
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "featured": true,
+    "name": "Ricardo R Lecheta",
+    "title": "Developer Android",
+    "company": "Livetouch",
+    "country": "Brasil",
+    "photoUrl": "../../images/people/foto_lecheta.png",
+    "bio": "Formado em Ciência da Computação e pós graduado em Gestão do Desenvolvimento de Software ambos pela PUC-PR. <br> Desenvolvedor de aplicativos para Android, iPhone, J2ME, Black Berry, Windows Phone, Windows 8.<br> Arquiteto de aplicações JEE: SCJP, SCWCD, SCBCD, SCMAD, SCEA.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+      {
+        "name": "Developer Android",
+        "description": "Developer Android",
+        "link": "https://twitter.com/rlecheta"
+      },
+      {
+        "name": "Livetouch",
+        "description": "Livetouch",
+        "link": "http://www.livetouch.com.br/"
+      }
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/rlecheta"
+      }
+    ]
+  }
 ]

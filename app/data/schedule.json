@@ -1,0 +1,163 @@
+[
+  {
+    "date": "2015-11-14",
+    "dateReadable": "14 de Novembro",
+    "tracks": [
+      {
+        "color": "#90be4e",
+        "title": "Android"
+      },
+      {
+        "color": "#03a9f4",
+        "title": "Web"
+      },
+      {
+        "color": "#e91e63",
+        "title": "Oficinas"
+      }
+    ],
+    "timeslots": [
+      {
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "sessions": [
+          [
+            1011
+          ]
+        ]
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "sessions": [
+          [
+            1012
+          ]
+        ]
+      },
+      {
+        "startTime": "09:30",
+        "endTime": "10:20",
+        "sessions": [
+          [
+            101
+          ]
+        ]
+      },
+      {
+        "startTime": "10:20",
+        "endTime": "11:10",
+        "sessions": [
+          [
+            1010
+          ]
+        ]
+      },
+      {
+        "startTime": "11:10",
+        "endTime": "12:00",
+        "sessions": [
+          [
+            1010
+          ]
+        ]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "sessions": [
+          [
+            1013
+          ]
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:20",
+        "sessions": [
+          [
+            1010
+          ],
+          [
+            1010
+          ],
+          [
+            1110
+          ]
+        ]
+      },
+      {
+        "startTime": "14:20",
+        "endTime": "15:10",
+        "sessions": [
+          [
+            102
+          ],
+          [
+            1010
+          ],
+          [
+            1010
+          ]
+        ]
+      },
+      {
+        "startTime": "15:10",
+        "endTime": "15:40",
+        "sessions": [
+          [
+            1014
+          ]
+        ]
+      },
+      {
+        "startTime": "15:40",
+        "endTime": "16:30",
+        "sessions": [
+          [
+            1010
+          ],
+          [
+            1010
+          ],
+          [
+            1112
+          ]
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:20",
+        "sessions": [
+          [
+            1010
+          ],
+          [
+            1010
+          ],
+          [
+            1113
+          ]
+        ]
+      },
+      {
+        "startTime": "17:20",
+        "endTime": "17:40",
+        "sessions": [
+          [
+            1015
+          ]
+        ]
+      },
+      {
+        "startTime": "17:40",
+        "endTime": "",
+        "sessions": [
+          [
+            1016
+          ]
+        ]
+      }
+    ]
+  }
+]
