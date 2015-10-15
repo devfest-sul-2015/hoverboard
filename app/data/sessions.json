@@ -127,5 +127,14 @@
     "complexity": "Iniciante",
     "presentation": "",
     "video": ""
-  }
+  },{
+    "id": 103,
+    "title": "Construindo Aplicativos Android Nativos com C#",
+    "description": "A palestra da uma visão geral sobre a Plataforma Xamarin e como desenvolver aplicativos nativos para Android utilizando a linguagem C#, vantagens e comparativos com a abordagem de desenvolvimento nativo.",
+    "speakers": [3],
+    "language": "pt",
+    "complexity": "Iniciante",
+    "presentation": "",
+    "video": ""
+}
 ]

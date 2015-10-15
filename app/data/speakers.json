@@ -48,8 +48,8 @@
     ],
     "badges": [
       {
-        "name": "Developer Android",
-        "description": "Developer Android",
+        "name": "Desenvolvedor Android",
+        "description": "Desenvolvedor Android",
         "link": "https://twitter.com/rlecheta"
       },
       {
@@ -64,5 +64,39 @@
         "link": "https://twitter.com/rlecheta"
       }
     ]
-  }
+  },
+    {
+        "id": 3,
+        "featured": true,
+        "name": "William S. Rodriguez",
+        "title": "Desenvolvedor Mobile",
+        "company": "28 Bytes Digital",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/willian_rodriguez.jpg",
+        "bio": "Fundador da 28 Bytes Digital, onde através da tecnologia ajudo pessoas desenvolverem suas ideias, viajo o Brasil palestrando em eventos e conferências de tecnologia, sou um profissional certificado e reconhecido como especialista em nuvem (Microsoft Azure), e desenvolvimento mobile cross plataforma (Xamarin), participando ativamente de comunidades técnicas e organizando eventos de tecnologia em Curitiba.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+            {
+                "name": "Developer Mobile",
+                "description": "Developer Mobile",
+                "link": "https://twitter.com/williamsrodz"
+            },
+            {
+                "name": "28 Bytes Digital",
+                "description": "28 Bytes Digital",
+                "link": "http://www.28bytes.com.br/"
+            }
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/williamsrodz"
+            },{
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/williamsrz"
+            }
+        ]
+    }
 ]
