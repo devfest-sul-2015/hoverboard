@@ -13,5 +13,19 @@
             "url": "https://software.intel.com/pt-br/",
             "logoUrl": "../images/partners/intel.svg"
         }]
+    }, {
+        "title": "Apoio",
+        "logos": [{
+            "name": "Beenoculus",
+            "url": "http://www.beenoculus.com/",
+            "logoUrl": "../images/partners/beenoculus.png"
+        }]
+    }, {
+        "title": "Apoio de divulgação",
+        "logos": [{
+            "name": "Mobi+",
+            "url": "http://www.mobimais.com.br/app",
+            "logoUrl": "../images/partners/mobi_mais.png"
+        }]
     }
 ]

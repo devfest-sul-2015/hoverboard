@@ -1,140 +1,160 @@
 [
-  {
-    "id": 1010,
-    "title": "Há definir",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1011,
-    "title": "Credenciamento e Café da Manhã",
-    "description": "Venha cedo iniciar o seu networking com a galera do evento.",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1012,
-    "title": "Abertura",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1013,
-    "title": "Almoço",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1014,
-    "title": "Coffee Break",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1015,
-    "title": "Encerramento e Sorteio",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1016,
-    "title": "After Party",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1110,
-    "title": "Oficina WTM",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1111,
-    "title": "RealSense",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1112,
-    "title": "Oficina Startup",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 1113,
-    "title": "Oficina Comunidades",
-    "description": "",
-    "speakers": [],
-    "language": "pt",
-    "complexity": "",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 101,
-    "title": "Novidades no mundo Android",
-    "description": "Em 2015 foram anunciadas várias novidades no mundo Android, tanto para desenvolvedores como para usuários. Venha participar do keynote sobre essas novidades e descobrir como tirar o melhor da plataforma Android para o seu aplicativo.",
-    "speakers": [1],
-    "language": "pt",
-    "complexity": "Iniciante",
-    "presentation": "",
-    "video": ""
-  },{
-    "id": 102,
-    "title": "Produtividade com Android Support Library e outras libs",
-    "description": "Vamos explorar algumas bibliotecas e conferir dicas sobre Material Design e animações, para criar aplicativos que empolguem os usuários.",
-    "speakers": [2],
-    "language": "pt",
-    "complexity": "Iniciante",
-    "presentation": "",
-    "video": ""
-  },{
-    "id": 103,
-    "title": "Construindo Aplicativos Android Nativos com C#",
-    "description": "A palestra da uma visão geral sobre a Plataforma Xamarin e como desenvolver aplicativos nativos para Android utilizando a linguagem C#, vantagens e comparativos com a abordagem de desenvolvimento nativo.",
-    "speakers": [3],
-    "language": "pt",
-    "complexity": "Iniciante",
-    "presentation": "",
-    "video": ""
-}
+    {
+        "id": 1010,
+        "title": "Há definir",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1011,
+        "title": "Credenciamento e Café da Manhã",
+        "description": "Venha cedo iniciar o seu networking com a galera do evento.",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1012,
+        "title": "Abertura",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1013,
+        "title": "Almoço",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1014,
+        "title": "Coffee Break",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1015,
+        "title": "Encerramento e Sorteio",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1016,
+        "title": "After Party",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1110,
+        "title": "Oficina WTM",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1111,
+        "title": "RealSense",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1112,
+        "title": "Oficina Startup",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 1113,
+        "title": "Oficina Comunidades",
+        "description": "",
+        "speakers": [],
+        "language": "pt",
+        "complexity": "",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 101,
+        "title": "Novidades no mundo Android",
+        "description": "Em 2015 foram anunciadas várias novidades no mundo Android, tanto para desenvolvedores como para usuários. Venha participar do keynote sobre essas novidades e descobrir como tirar o melhor da plataforma Android para o seu aplicativo.",
+        "speakers": [
+            1
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 102,
+        "title": "Produtividade com Android Support Library e outras libs",
+        "description": "Vamos explorar algumas bibliotecas e conferir dicas sobre Material Design e animações, para criar aplicativos que empolguem os usuários.",
+        "speakers": [
+            2
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 103,
+        "title": "Construindo Aplicativos Android Nativos com C#",
+        "description": "A palestra da uma visão geral sobre a Plataforma Xamarin e como desenvolver aplicativos nativos para Android utilizando a linguagem C#, vantagens e comparativos com a abordagem de desenvolvimento nativo.",
+        "speakers": [
+            3
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 104,
+        "title": "Jogando os dardos: uma breve introdução ao Dart",
+        "description": "Será apresentado um overview a respeito da linguagem Dart, desde sua sintaxe básica até recursos característicos, fazendo um comparativo com JavaScript e ressaltando suas semelhanças e diferenças. Para ilustrar os conceitos serão apresentados códigos de exemplo durante a apresentação.",
+        "speakers": [
+            4
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    }
 ]

@@ -7,7 +7,7 @@
     "company": "Google",
     "country": "Brasil",
     "photoUrl": "../../images/people/neto_marin.jpg",
-    "bio": "EM BREVE",
+    "bio": "",
     "tags": [
       "Android"
     ],
@@ -16,11 +16,6 @@
         "name": "Developer Advocate",
         "description": "Developer Advocate",
         "link": "https://twitter.com/netomarin"
-      },
-      {
-        "name": "Google Brasil",
-        "description": "Google Developers",
-        "link": "https://twitter.com/googlebrasil"
       }
     ],
     "socials": [
@@ -38,7 +33,7 @@
     "id": 2,
     "featured": true,
     "name": "Ricardo R Lecheta",
-    "title": "Developer Android",
+    "title": "Developer Mobile",
     "company": "Livetouch",
     "country": "Brasil",
     "photoUrl": "../../images/people/foto_lecheta.png",
@@ -48,14 +43,9 @@
     ],
     "badges": [
       {
-        "name": "Desenvolvedor Android",
-        "description": "Desenvolvedor Android",
+        "name": "Desenvolvedor Mobile",
+        "description": "Desenvolvedor Mobile",
         "link": "https://twitter.com/rlecheta"
-      },
-      {
-        "name": "Livetouch",
-        "description": "Livetouch",
-        "link": "http://www.livetouch.com.br/"
       }
     ],
     "socials": [
@@ -75,18 +65,13 @@
         "photoUrl": "../../images/people/willian_rodriguez.jpg",
         "bio": "Fundador da 28 Bytes Digital, onde através da tecnologia ajudo pessoas desenvolverem suas ideias, viajo o Brasil palestrando em eventos e conferências de tecnologia, sou um profissional certificado e reconhecido como especialista em nuvem (Microsoft Azure), e desenvolvimento mobile cross plataforma (Xamarin), participando ativamente de comunidades técnicas e organizando eventos de tecnologia em Curitiba.",
         "tags": [
-            "Android"
+            "Android","C#"
         ],
         "badges": [
             {
                 "name": "Developer Mobile",
                 "description": "Developer Mobile",
                 "link": "https://twitter.com/williamsrodz"
-            },
-            {
-                "name": "28 Bytes Digital",
-                "description": "28 Bytes Digital",
-                "link": "http://www.28bytes.com.br/"
             }
         ],
         "socials": [
@@ -99,4 +84,33 @@
             }
         ]
     }
+    ,{
+    "id": 4,
+    "featured": true,
+    "name": "Rodrigo Muniz",
+    "title": "Desenvolvedor",
+    "company": " Instituto Curitiba de Informática",
+    "country": "Brasil",
+    "photoUrl": "../../images/people/rodrigo_muniz.jpg",
+    "bio": "",
+    "tags": [
+        "Dart","Web"
+    ],
+    "badges": [
+        {
+            "name": "Developer",
+            "description": "Developer",
+            "link": "http://twitter.com/muniz95"
+        }
+    ],
+    "socials": [
+        {
+            "name": "Twitter",
+            "link": "http://twitter.com/muniz95"
+        },{
+            "name": "Linkedin",
+            "link": "https://br.linkedin.com/in/muniz95"
+        }
+    ]
+}
 ]
