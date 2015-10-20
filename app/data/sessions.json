@@ -81,7 +81,7 @@
     },
     {
         "id": 1111,
-        "title": "RealSense",
+        "title": "Oficina de Intel RealSense e Beenoculus",
         "description": "",
         "speakers": [],
         "language": "pt",
@@ -151,6 +151,54 @@
         "description": "Será apresentado um overview a respeito da linguagem Dart, desde sua sintaxe básica até recursos característicos, fazendo um comparativo com JavaScript e ressaltando suas semelhanças e diferenças. Para ilustrar os conceitos serão apresentados códigos de exemplo durante a apresentação.",
         "speakers": [
             4
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 105,
+        "title": "Saiba como utilizar a linguagem do Material Design para criar interfaces centradas no usuário com hierarquia, significado e foco.",
+        "description": "O material design revolucionou a criação de interfaces digitais inspirando-se em elementos simples do mundo real como cartões e tiras de papel. O objetivo desta palestra é demonstrar como aplicar estas metáforas na prática utilizando princípios clássicos do design para criar interfaces modernas, tecnológicas e com foco na experiência do usuário.",
+        "speakers": [
+            5,6
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 106,
+        "title": "Desenvolvimento Aplicações Hibridas com o Intel XDK",
+        "description": "Veja na pratica como criar Aplicativos Android utilizando tecnologias abertas como HTML5, CSS e JavaScript.",
+        "speakers": [
+            7
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 107,
+        "title": "¿Web o Plomo? O Chrome e uma web cada vez mais nativa",
+        "description": "",
+        "speakers": [
+            8
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 108,
+        "title": "O Futuro dos WebApps com AngularJS 2.0",
+        "description": "Angularjs é um framework javascript construido e mantido pelo grupo de engenheiros do Google, ele usa o HTML como uma 'template engine' aliado a conceitos de Orientação a Objetos, testes, dentre outros, no intuito de fornecer uma solução completa para o cliente-side de sua aplicação. Além disso tem total compatibilidade com as bibliotecas javascript mais utilizadas, como jQuery. é um novo conceito para desenvolvimento de web apps client-site. Entenda as novidades que estão por vir com o AngularJS 2.0, as novas definições, facilidades, novos desafios e entenda o motivo do AngularJS ser um framework excelente para todos os momentos.",
+        "speakers": [
+            9
         ],
         "language": "pt",
         "complexity": "Iniciante",

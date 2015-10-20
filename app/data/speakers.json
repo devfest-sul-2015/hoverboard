@@ -1,60 +1,50 @@
 [
-  {
-    "id": 1,
-    "featured": true,
-    "name": "Neto Marin",
-    "title": "Developer Advocate",
-    "company": "Google",
-    "country": "Brasil",
-    "photoUrl": "../../images/people/neto_marin.jpg",
-    "bio": "",
-    "tags": [
-      "Android"
-    ],
-    "badges": [
-      {
-        "name": "Developer Advocate",
-        "description": "Developer Advocate",
-        "link": "https://twitter.com/netomarin"
-      }
-    ],
-    "socials": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/netomarin"
-      },
-      {
-        "name": "GitHub",
-        "link": "https://github.com/netomarin"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "featured": true,
-    "name": "Ricardo R Lecheta",
-    "title": "Developer Mobile",
-    "company": "Livetouch",
-    "country": "Brasil",
-    "photoUrl": "../../images/people/foto_lecheta.png",
-    "bio": "Formado em Ciência da Computação e pós graduado em Gestão do Desenvolvimento de Software ambos pela PUC-PR. <br> Desenvolvedor de aplicativos para Android, iPhone, J2ME, Black Berry, Windows Phone, Windows 8.<br> Arquiteto de aplicações JEE: SCJP, SCWCD, SCBCD, SCMAD, SCEA.",
-    "tags": [
-      "Android"
-    ],
-    "badges": [
-      {
-        "name": "Desenvolvedor Mobile",
-        "description": "Desenvolvedor Mobile",
-        "link": "https://twitter.com/rlecheta"
-      }
-    ],
-    "socials": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/rlecheta"
-      }
-    ]
-  },
+    {
+        "id": 1,
+        "featured": true,
+        "name": "Neto Marin",
+        "title": "Developer Advocate",
+        "company": "Google",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/neto_marin.jpg",
+        "bio": "",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/netomarin"
+            },
+            {
+                "name": "GitHub",
+                "link": "https://github.com/netomarin"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "featured": true,
+        "name": "Ricardo R Lecheta",
+        "title": "Developer Mobile",
+        "company": "Livetouch",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/foto_lecheta.png",
+        "bio": "Formado em Ciência da Computação e pós graduado em Gestão do Desenvolvimento de Software ambos pela PUC-PR. <br> Desenvolvedor de aplicativos para Android, iPhone, J2ME, Black Berry, Windows Phone, Windows 8.<br> Arquiteto de aplicações JEE: SCJP, SCWCD, SCBCD, SCMAD, SCEA.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/rlecheta"
+            }
+        ]
+    },
     {
         "id": 3,
         "featured": true,
@@ -65,52 +55,182 @@
         "photoUrl": "../../images/people/willian_rodriguez.jpg",
         "bio": "Fundador da 28 Bytes Digital, onde através da tecnologia ajudo pessoas desenvolverem suas ideias, viajo o Brasil palestrando em eventos e conferências de tecnologia, sou um profissional certificado e reconhecido como especialista em nuvem (Microsoft Azure), e desenvolvimento mobile cross plataforma (Xamarin), participando ativamente de comunidades técnicas e organizando eventos de tecnologia em Curitiba.",
         "tags": [
-            "Android","C#"
+            "Android",
+            "C#"
         ],
         "badges": [
-            {
-                "name": "Developer Mobile",
-                "description": "Developer Mobile",
-                "link": "https://twitter.com/williamsrodz"
-            }
         ],
         "socials": [
             {
                 "name": "Twitter",
                 "link": "https://twitter.com/williamsrodz"
-            },{
+            },
+            {
                 "name": "Linkedin",
                 "link": "https://br.linkedin.com/in/williamsrz"
             }
         ]
+    },
+    {
+        "id": 4,
+        "featured": true,
+        "name": "Rodrigo Muniz",
+        "title": "Desenvolvedor",
+        "company": " Instituto Curitiba de Informática",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/rodrigo_muniz.jpg",
+        "bio": "",
+        "tags": [
+            "Dart",
+            "Web"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/muniz95"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/muniz95"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "featured": true,
+        "name": "Dani Guerrato",
+        "title": "UI Designer",
+        "company": "PopUp Design",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/dani_guerrato.jpg",
+        "bio": "",
+        "tags": [
+            "Designer",
+            "Web",
+            "UI"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/daniguerrato"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/daniguerrato"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "featured": true,
+        "name": "Leandro Lima",
+        "title": "UX Designer",
+        "company": "PopUp Design",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/leandro_lima.jpg",
+        "bio": "",
+        "tags": [
+            "Designer",
+            "Web",
+            "UX"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/lesao"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/leandrogoeslima"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "featured": true,
+        "name": "Reinaldo Silotto",
+        "title": "Intel® Software Innovator",
+        "company": "TekZoom",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/reinaldo_silotto.jpg",
+        "bio": "Coordenador de Soluções Digitais na Cengage Learning Brasil e responsável pelo TekZoom, site e canal no Youtube com mais de 42 mil inscritos ativos. Integrante do programa Intel® Software Innovator.",
+        "tags": [
+            "Intel",
+            "Android",
+            "XDK"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/tek_zoom"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/silotto"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "featured": true,
+        "name": "Joselito Júnior",
+        "title": "Desenvolvedor",
+        "company": "GDG Recife",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/joselito_junior.jpg",
+        "bio": "Organizador do GDG Recife, co-criador e instrutor dos cursos AngularJS Bootcamp e PhoneGap Bootcamp, e fundador das startups premiadas Estudorama e Rabiscapp. Além de ganhador de Hackathons profissional, é entusiasta do Design Thinking, Lean Startup e desenvolvimento Ágil de software. Fã de Fórmula 1 e de fazer piadas de gosto duvidoso",
+        "tags": [
+            "Web",
+            "PhoneGap",
+            "Chrome"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/joselitojunior1"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/joselitojunior"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "featured": true,
+        "name": "Wilson Mendes",
+        "title": "Google Developer Expert",
+        "company": "GDE Angular",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/wilson_mendes.jpg",
+        "bio": "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas.",
+        "tags": [
+            "Web",
+            "AngularJS",
+            "GDE"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/willmendesneto"
+            }
+        ]
     }
-    ,{
-    "id": 4,
-    "featured": true,
-    "name": "Rodrigo Muniz",
-    "title": "Desenvolvedor",
-    "company": " Instituto Curitiba de Informática",
-    "country": "Brasil",
-    "photoUrl": "../../images/people/rodrigo_muniz.jpg",
-    "bio": "",
-    "tags": [
-        "Dart","Web"
-    ],
-    "badges": [
-        {
-            "name": "Developer",
-            "description": "Developer",
-            "link": "http://twitter.com/muniz95"
-        }
-    ],
-    "socials": [
-        {
-            "name": "Twitter",
-            "link": "http://twitter.com/muniz95"
-        },{
-            "name": "Linkedin",
-            "link": "https://br.linkedin.com/in/muniz95"
-        }
-    ]
-}
 ]
