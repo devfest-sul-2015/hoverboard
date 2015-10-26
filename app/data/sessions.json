@@ -204,5 +204,53 @@
         "complexity": "Iniciante",
         "presentation": "",
         "video": ""
+    },
+    {
+        "id": 109,
+        "title": "Microservices, Web APIs e A Morte Dos Monolitos",
+        "description": "O mercado criou a necessidade de sermos cada vez mais dinâmicos e reativos, a competitividade nos exige soluções rápidas em uma variedade de plataformas e clients nunca antes imaginada, nessa palestra vamos abordar brevemente cada faceta dessa tendência de mercado cada vez mais consolidada.",
+        "speakers": [
+            10
+        ],
+        "language": "pt",
+        "complexity": "Intermediário",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 110,
+        "title": "Eddystone beacons e Nearby API",
+        "description": "Conheça o Eddystone, novo projeto open-source que o Google ​está investindo. É um novo padrão para beacons em Android, iOS e diversas outras plataformas que suportam BLE (Bluetooth Low Energy)​.​ A principal função​ é​ facilitar a comunicação e localização precisa através desses pequenos dispositivos. ",
+        "speakers": [
+            11
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 111,
+        "title": "Bibliotecas Google para​ ​desenvolvimento nativo em​ ​iOS",
+        "description": "Não só de Android vive o ecossistema Mobile do Google. Nessa palestra vamos tratar das bibliotecas que ajudam o desenvolvedor na programação de aplicativos para o sistema da maçã.",
+        "speakers": [
+            11
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
+    },
+    {
+        "id": 112,
+        "title": "Tirando o couro do Android com ferramentas Intel",
+        "description": "Com uma boa ferramenta em mãos, o desenvolvedor pode garantir um bom de semana e entender mais do seu aplicativo e do sistema. Nessa palestra, falaremos sobre as ferramentas oferecidas pela Intel que podem salvar seu fim-de-semana.",
+        "speakers": [
+            11
+        ],
+        "language": "pt",
+        "complexity": "Iniciante",
+        "presentation": "",
+        "video": ""
     }
 ]

@@ -47,7 +47,7 @@
     },
     {
         "id": 3,
-        "featured": true,
+        "featured": false,
         "name": "William S. Rodriguez",
         "title": "Desenvolvedor Mobile",
         "company": "28 Bytes Digital",
@@ -73,7 +73,7 @@
     },
     {
         "id": 4,
-        "featured": true,
+        "featured": false,
         "name": "Rodrigo Muniz",
         "title": "Desenvolvedor",
         "company": " Instituto Curitiba de Informática",
@@ -99,7 +99,7 @@
     },
     {
         "id": 5,
-        "featured": true,
+        "featured": false,
         "name": "Dani Guerrato",
         "title": "UI Designer",
         "company": "PopUp Design",
@@ -131,7 +131,7 @@
     },
     {
         "id": 6,
-        "featured": true,
+        "featured": false,
         "name": "Leandro Lima",
         "title": "UX Designer",
         "company": "PopUp Design",
@@ -161,7 +161,7 @@
         "featured": true,
         "name": "Reinaldo Silotto",
         "title": "Intel® Software Innovator",
-        "company": "TekZoom",
+        "company": "Intel® Software Innovator",
         "country": "Brasil",
         "photoUrl": "../../images/people/reinaldo_silotto.jpg",
         "bio": "Coordenador de Soluções Digitais na Cengage Learning Brasil e responsável pelo TekZoom, site e canal no Youtube com mais de 42 mil inscritos ativos. Integrante do programa Intel® Software Innovator.",
@@ -230,6 +230,57 @@
             {
                 "name": "Twitter",
                 "link": "https://twitter.com/willmendesneto"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "featured": true,
+        "name": "Fernando Rychlewski",
+        "title": "Google Developer Group",
+        "company": "GDG São Paulo",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/fernando_gdgsaopaulo.jpg",
+        "bio": "Mais de 16 anos de desenvolvedor curioso (Nerd) e mais de 8 anos de experiência em Análise e Gerência de Projetos de Sistemas em arquiteturas Web/Cloud, atua na elaboração de evoluções tecnológicas e arquiteturas em sistemas de grandes corporações no mercado.\n\nTambém Organizador e Palestrante de eventos para a comunidade de Desenvolvedores brasileiros (Google Developers São Paulo, NetCoders, iMasters, etc), além de 12 anos de experiência com design gráfico (CEO de uma gráfica, seu Hobbie).\n\nJá trabalhou diretamente com grandes empresas como Banco do Nordeste, Banco Industrial, Banco Luso Brasileiro, Banco Rendimento, Banco Original, Banco Brickell, Banco Fibra, Banco Pine, Atacadista Assai, Carrefour, Coca-Cola, Bad Boy, MOfficer, Triton, Colcci, Forum, Mormaii, Toulon, etc...",
+        "tags": [
+            "Web",
+            "Web APIs",
+            "APIs"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/fernando_rych"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/fernandorych "
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "featured": true,
+        "name": "Marcelo Quinta",
+        "title": "Google Developer Expert",
+        "company": "GDE Android",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/marcelo_quinta.png",
+        "bio": "Professor em Engenharia de Software na UFG, Google Developer Expert em Android, Intel Innovator, organizador do GDG Goiânia e muito ativo na comunidade de desenvolvimento móvel",
+        "tags": [
+            "Android",
+            "Mobile",
+            "iOS",
+            "GDE"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/mrquinta"
             }
         ]
     }
