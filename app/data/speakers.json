@@ -283,5 +283,106 @@
                 "link": "https://twitter.com/mrquinta"
             }
         ]
+    },
+    {
+        "id": 12,
+        "featured": true,
+        "name": "Alda Rocha",
+        "title": "Women Techmakers",
+        "company": "WTM São Paulo",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/alda_rocha.jpg",
+        "bio": "37 anos, UX Designer, Web desenvolvedora front-end e Instrutora de Usabilidade e arquitetura da informação com mais de 15 anos de experiência atuando em agência digitais, startups e grandes empresas. Desenvolveu projetos para muitas marcas consolidadas no Brasil e no mundo. Em seu tempo livre gosta de escrever sobre tecnologia, design, usabilidade e experiência do usuário. Organizadora do Google Developers Group, Hackathon da FIESP e mentora do Women Techmakers no Brasil. Criadora do GDG DROPS, evento que visa incentivar mais mulheres na área de tecnologia.",
+        "tags": [
+            "UX",
+            "Designer",
+            "Web",
+            "Front-end"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/mjcoffeeholick"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/mjcoffeeholick"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "featured": true,
+        "name": "Alessandro Binhara",
+        "title": "Beenoculus",
+        "company": "Azuris / Beenoculus",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/binhara.jpg",
+        "bio": "",
+        "tags": [
+            "Beeonoculus",
+            "RealSense",
+            "Cardboard"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/binhara"
+            },
+            {
+                "name": "Linkedin",
+                "link": "https://br.linkedin.com/in/binhara"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "featured": false,
+        "name": "Vitor Torres",
+        "title": "Contabilizei",
+        "company": "Contabilizei",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/vitor_torres.png",
+        "bio": "Vitor Torres é formado em Administração de Empresas e empreendedor aventureiro desde sua infância. Sua trajetória empreendedora é repleta de desafios e aprendizados ao promover a maior inovação na tradicional indústria contábil das últimas décadas.\nAntes de fundar e atuar como CEO da Contabilizei, Vítor decidiu se aventurar por 3 anos em Londres com sua filha e esposa, trabalhando em consultoria internacional, educando uma filha na Europa e aprendendo que para ter sucesso é preciso se adaptar.\nCom uma abordagem direta e prática, Vítor inspira a importância do empreendedorismo como principal motor de evolução profissional e pessoal.",
+        "tags": [
+            "Startup",
+            "Empreendedorismo"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+
+        ]
+    },
+    {
+        "id": 15,
+        "featured": false,
+        "name": "André Marim",
+        "title": "Fleety",
+        "company": "Fleety",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/andre_marim.jpg",
+        "bio": "Empreendedor, cofundador e CEO da startup Fleety de Compartilhamento de Veículos. Engenheiro Eletricista Eletrônico pela Universidade de São Paulo – USP, teve experiência por 3 anos como Gerente de Desenvolvimento Comercial da DANONE e 2 anos como Gerente de frota da Coca Cola. Nos últimos anos tem se dedicado ao estudo sobre o fenômeno do Consumo Colaborativo principalmente na área de mobilidade onde co-fundou o Fleety.”",
+        "tags": [
+            "Startup",
+            "Empreendedorismo"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+
+        ]
     }
 ]

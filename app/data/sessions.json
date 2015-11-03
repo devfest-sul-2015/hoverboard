@@ -73,7 +73,9 @@
         "id": 1110,
         "title": "Oficina WTM",
         "description": "",
-        "speakers": [],
+        "speakers": [
+            12
+        ],
         "language": "pt",
         "complexity": "",
         "presentation": "",
@@ -83,7 +85,7 @@
         "id": 1111,
         "title": "Oficina de Intel RealSense e Beenoculus",
         "description": "",
-        "speakers": [],
+        "speakers": [13],
         "language": "pt",
         "complexity": "",
         "presentation": "",
@@ -93,7 +95,7 @@
         "id": 1112,
         "title": "Oficina Startup",
         "description": "",
-        "speakers": [],
+        "speakers": [14,15],
         "language": "pt",
         "complexity": "",
         "presentation": "",
@@ -162,7 +164,8 @@
         "title": "Saiba como utilizar a linguagem do Material Design para criar interfaces centradas no usuário com hierarquia, significado e foco.",
         "description": "O material design revolucionou a criação de interfaces digitais inspirando-se em elementos simples do mundo real como cartões e tiras de papel. O objetivo desta palestra é demonstrar como aplicar estas metáforas na prática utilizando princípios clássicos do design para criar interfaces modernas, tecnológicas e com foco na experiência do usuário.",
         "speakers": [
-            5,6
+            5,
+            6
         ],
         "language": "pt",
         "complexity": "Iniciante",
