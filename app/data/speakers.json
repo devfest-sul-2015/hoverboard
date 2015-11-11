@@ -384,5 +384,105 @@
         "socials": [
 
         ]
+    },
+    {
+        "id": 16,
+        "featured": false,
+        "name": "Erica Marques",
+        "title": "Google Business Group ",
+        "company": "GBG Curiba",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/erica_marques.jpg",
+        "bio": "Country Champion do Google Business Group Brasil, Diretora da Câmara da Mulher Empreendedora e Gestora de Curitiba (Fecomércio/PR), professora do Laboratório de Empreendedorismo (2014) do núcleo de Empreendedorismo da Escola de Negócios – PUCPR, Mentora no Google Startup Launch Brazil, Organizer do Google Developer Group Curitiba e sócia proprietária da LogosBr Marketing.",
+        "tags": [
+            "Startup",
+            "Empreendedorismo",
+            "GBG"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+
+        ],
+        "socials": [
+
+        ]
+    },
+    {
+        "id": 17,
+        "featured": false,
+        "name": "Camilla Camata",
+        "title": "Desenvolvedora de Jogoso",
+        "company": "Developer",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/camilla_jogos.jpg",
+        "bio": "Melhor programadora de jogos do mundo segundo a mãe. Título de mulher mais influente da casa, concedido pelo meu marido. Desenvolvedora de jogos, mais de 1 ano de experiência na área, programa a 11 anos e gosta de usar o bom humor para tornar palestras menos chatas.",
+        "tags": [
+            "Developer",
+            "Games"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+
+        ],
+        "socials": [
+
+        ]
     }
+,
+    {
+        "id": 18,
+        "featured": false,
+        "name": "Sílvia Amélia",
+        "title": "Professora do Departamento Acadêmico de Informática da UTFPR",
+        "company": "Emili@s - Armação em Bits",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/silvia_ux.jpg",
+        "bio": "Professora do Departamento Acadêmico de Informática da UTFPR - Curitiba. Doutora em Informática pela PUC-Rio e mestre em Ciência de Computação pela UNICAMP. Atualmente é secretaria adjunta da SBC e Coordenadora do Programa Meninas Digitais da SBC e tem o Projeto Emili@s - Armação em Bits. Trabalha com Interação Humano Computador com foco em Eng. Semiotica e seus métodos. Também está envolvida em atividades de pesquisa e extensão sobre Mulheres na Computação.",
+        "tags": [
+            "Developer",
+            "Professora"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+
+        ],
+        "socials": [
+
+        ]
+    }
+,
+    {
+        "id": 19,
+        "featured": false,
+        "name": "Paulo Porto Martins",
+        "title": "Núcleo Empreendedorismo e Inovação da Escola de Negócios | PUCPR",
+        "company": "PUC PR",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/paulo_martins.jpg",
+        "bio": "Psicólogo, Doutorando em saúde mental laboral, Formação em empreendedorismo pelo Boston College, IEC (International Entrepreneurship Center) e pelo Babson College. Professor TI da Escola de Negócios da PUCPR, Coordenador do Núcleo de Empreendedorismo e Inovação da Escola de Negócios da PUCPR, Idealizador do Desafio Móbile, assim como coordenador do LaB (Laboratório de Empreendedorismo) e dos Cursos de Especialização Gestão Empreendedora e Inovação: Startup Business Model e Marketing. Gestor da Startup Here4us (www.here4us.com), Fundador Startup Paraná (www.startupparana.com.br), Membro do GBG Curitiba (Google Business Group), Colaborador de eventos como Startup Launch (2013), Startup Weekend Curitiba (2014), Startup Foods (2014), Startup Pirates (2014 e 2015), Ideation (2015) assim como avaliador do Desafio Senai (de Inovação, 2013, Startups, 2014 e incubadora 2015) e da HotMik (2015).",
+        "tags": [
+            "Startup",
+            "Empreendedorismo",
+            "GBG"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+
+        ]
+    }
+
 ]

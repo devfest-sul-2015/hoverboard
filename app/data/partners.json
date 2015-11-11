@@ -27,9 +27,25 @@
     }, {
         "title": "Apoio de divulgação",
         "logos": [{
-            "name": "Mobi+",
-            "url": "http://www.mobimais.com.br/app",
-            "logoUrl": "../images/partners/mobi_mais.png"
-        }]
+                "name": "Mobi+",
+                "url": "http://www.mobimais.com.br/app",
+                "logoUrl": "../images/partners/mobi_mais.png"
+            },
+            {
+                "name": "UTFPR",
+                "url": "http://www.utfpr.edu.br/",
+                "logoUrl": "../images/partners/utfpr.gif"
+            },
+            {
+                "name": "DAINF",
+                "url": "ppgca.dainf.ct.utfpr.edu.br/doku.php",
+                "logoUrl": "../images/partners/dainf.jpg"
+            },
+            {
+                "name": "GBG Curitiba",
+                "url": "http://www.gbgcuritiba.org/",
+                "logoUrl": "../images/partners/gbgcuritiba.png"
+            }
+        ]
     }
 ]

@@ -71,10 +71,10 @@
     },
     {
         "id": 1110,
-        "title": "Oficina WTM",
+        "title": "Women Techmakers Curitiba",
         "description": "",
         "speakers": [
-            12
+            12,17,18
         ],
         "language": "pt",
         "complexity": "",
@@ -93,9 +93,9 @@
     },
     {
         "id": 1112,
-        "title": "Oficina Startup",
+        "title": "Show de Startups",
         "description": "",
-        "speakers": [14,15],
+        "speakers": [14,15,16],
         "language": "pt",
         "complexity": "",
         "presentation": "",
@@ -103,9 +103,9 @@
     },
     {
         "id": 1113,
-        "title": "Oficina Comunidades",
+        "title": "Inspirando Startups",
         "description": "",
-        "speakers": [],
+        "speakers": [14,15,16,19],
         "language": "pt",
         "complexity": "",
         "presentation": "",
