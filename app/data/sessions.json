@@ -74,7 +74,7 @@
         "title": "Women Techmakers Curitiba",
         "description": "",
         "speakers": [
-            12,17,18
+            12,17,18,23
         ],
         "language": "pt",
         "complexity": "",
@@ -105,7 +105,7 @@
         "id": 1113,
         "title": "Inspirando Startups",
         "description": "",
-        "speakers": [14,15,16,19],
+        "speakers": [14,15,16,19,20,21,22,12],
         "language": "pt",
         "complexity": "",
         "presentation": "",
@@ -125,7 +125,7 @@
     },
     {
         "id": 102,
-        "title": "Produtividade com Android Support Library e outras libs",
+        "title": "Android Design Support Library na Prática",
         "description": "Vamos explorar algumas bibliotecas e conferir dicas sobre Material Design e animações, para criar aplicativos que empolguem os usuários.",
         "speakers": [
             2

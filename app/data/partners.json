@@ -46,6 +46,12 @@
                 "url": "http://www.gbgcuritiba.org/",
                 "logoUrl": "../images/partners/gbgcuritiba.png"
             }
+        ,
+            {
+                "name": "RIC Mais",
+                "url": "http://www.ricmais.com.br/",
+                "logoUrl": "../images/partners/ricmais.png"
+            }
         ]
     }
 ]

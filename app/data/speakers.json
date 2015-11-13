@@ -32,7 +32,7 @@
         "company": "Livetouch",
         "country": "Brasil",
         "photoUrl": "../../images/people/foto_lecheta.png",
-        "bio": "Formado em Ciência da Computação e pós graduado em Gestão do Desenvolvimento de Software ambos pela PUC-PR. <br> Desenvolvedor de aplicativos para Android, iPhone, J2ME, Black Berry, Windows Phone, Windows 8.<br> Arquiteto de aplicações JEE: SCJP, SCWCD, SCBCD, SCMAD, SCEA.",
+        "bio": "Gerente de desenvolvimento na Livetouch e Intel® Software Innovator. Autor do livro Google Android pela editora Novtec.",
         "tags": [
             "Android"
         ],
@@ -478,6 +478,101 @@
             "GBG"
         ],
         "badges": [
+
+        ],
+        "socials": [
+
+        ]
+    }
+,
+    {
+        "id": 20,
+        "featured": false,
+        "name": "Mary Camila",
+        "title": "Women Techmakers Curitiba",
+        "company": "Women Techmakers Curitiba",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/mary_camila.jpg",
+        "bio": "",
+        "tags": [
+            "Developer",
+            "GDG"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
+
+        ],
+        "socials": [
+
+        ]
+    }
+,
+    {
+        "id": 21,
+        "featured": false,
+        "name": "Rodrigo Alvarenga",
+        "title": "Startup Grind Brasil",
+        "company": "Startup Grind Brasil",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/rodrigo_alvarenga.jpg",
+        "bio": "",
+        "tags": [
+            "Startup",
+            "Empreendedorismo"
+        ],
+        "badges": [
+
+
+        ],
+        "socials": [
+
+        ]
+    }
+,
+    {
+        "id": 22,
+        "featured": false,
+        "name": "Leo Tostes",
+        "title": "Hotmilk Aceleradora - PUC PR",
+        "company": "Hotmilk Aceleradora - PUC PR",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/leo_tostes.jpg",
+        "bio": "",
+        "tags": [
+            "Startup",
+            "Empreendedorismo"
+        ],
+        "badges": [
+
+
+        ],
+        "socials": [
+
+        ]
+    }
+,
+    {
+        "id": 23,
+        "featured": false,
+        "name": "Sandramara Kusano",
+        "title": "Universidade Federal do Paraná",
+        "company": "Universidade Federal do Paraná",
+        "country": "Brasil",
+        "photoUrl": "../../images/people/sandramara.jpg",
+        "bio": "",
+        "tags": [
+            "Professora"
+        ],
+        "badges": [
+            {
+                "name": "WTM",
+                "description": "WTM",
+                "link": "https://www.womentechmakers.com/"
+            }
 
         ],
         "socials": [
